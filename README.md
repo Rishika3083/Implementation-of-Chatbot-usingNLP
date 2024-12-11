@@ -1,5 +1,6 @@
 
 # Chatbot using NLP
+A chatbot using NLP (Natural Language Processing) is a conversational agent designed to interact with users through natural language, simulating human conversation. NLP enables the chatbot to understand, interpret, and generate human-like responses, making interactions seamless and intuitive.
 
 ## Overview
 This project implements a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to understand user intents and provide appropriate responses based on predefined patterns and responses. It utilizes the `nltk` library for natural language processing, `scikit-learn` for machine learning, and `streamlit` for creating an interactive web interface.
